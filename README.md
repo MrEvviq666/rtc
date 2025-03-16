@@ -1,2 +1,17 @@
 # rtc
-A telegram bot based on telebot for remote computer control
+Телеграм-бот для удаленного контроля компьютера, основан на telebot
+
+# Необходимое
+
+- Python 3.9+
+- Телеграм -_-
+- Компьютер -_-
+
+# Гайд по запуску
+
+1. Скачивай и устанавливай [Python](https://www.python.org) версии от 3.9
+2. Создавай виртуальную среду
+3. Устанавливай пакеты с помощью `pip install -r requirements.py`
+4. В переменную `API` в кавычки вставляй токен бота из [@BotFather](https://t.me/botfather)
+5. Для получения ID в переменную `user_id` пиши [@myidbot](https://t.me/myidbot) и вставляй
+6. Запускай
