@@ -1,0 +1,12 @@
+moviepy
+telebot
+ctypes
+opencv-python
+pyaudio
+requests
+webbrowser
+chardet
+pillow
+subprocess
+threading
+tempfile
